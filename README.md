@@ -11,6 +11,8 @@ The weighted matrix is extracted from the trained encoding model to convert the 
 ```
     git clone https://github.com/CSAILVision/NetDissect-Lite
     cd NetDissect-Lite
+```
 * Download the NSD data for the encoding model from：
 ```
     http://naturalscenesdataset.org
+```
