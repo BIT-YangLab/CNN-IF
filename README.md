@@ -1,4 +1,4 @@
-# Interpretable_Encoding_model_Framework
+# CNN-IF
 Code of article "A Convolutional Neural Network Interpretable Framework for Human Ventral Visual Pathway Representation"
 # Introduction
 We propose a convolutional neural network interpretable framework (CNN-IF) aimed at providing a transparent interpretable encoding model for the ventral visual pathway.
@@ -16,3 +16,5 @@ The weighted matrix is extracted from the trained encoding model to convert the 
 ```
     http://naturalscenesdataset.org
 ```
+# Environment
+Dependency can be get in environment.yml. All models were trained, validated, and analyzed on four NVIDIA GeForce RTX 3090 GPUs.
