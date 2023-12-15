@@ -22,5 +22,12 @@ Dependency can be get in environment.yml. All models were trained, validated, an
 * AlexNet hierarchy
 ![appendix_fig1](https://github.com/BIT-YangLab/CNN-IF/assets/149853778/fe85e816-3a98-4998-bddc-e8ae0d6b48c3)
 AlexNet hierarchy. (A) Visualization of the hierarchical structure of the ventral visual pathway. (B) The correlation between predictive voxel responses and measured voxel responses for each ROI from all data-driven-pretrained layers. (C) The correlation between predictive voxel responses and measured voxel responses for each ROI from all data-driven-unpretrained layers. The results were averaged across four subjects.
+* GNet hierarchy
+![appendix_fig2](https://github.com/BIT-YangLab/CNN-IF/assets/149853778/ab3812d5-547a-47ef-8696-3e1699553c40)
+GNet hierarchy. (A) Visualization of the hierarchical structure of the ventral visual pathway. 
+(B) The correlation between predictive voxel responses and measured voxel responses for each ROI from all data-driven-pretrained layers. (C) The correlation between predictive voxel responses and measured voxel responses for each ROI from all data-driven-unpretrained layers. The results were averaged across four subjects.
+* GNet network dissection.
+![appendix_fig3](https://github.com/BIT-YangLab/CNN-IF/assets/149853778/cee3745e-fedf-4ca8-ab16-3b07af233a93)
+GNet network dissection. (A) The number of voxels that are detected on GNet (goal-driven-pretrained). (B) The number of voxels that are detected on GNet (data-driven-pretrained). (C) The number of voxels that are detected on GNet (data-driven-unpretrained). Floc ROIs are aligned with the last convolutional layer of GNet for network dissection.
 
 
