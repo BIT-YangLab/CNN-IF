@@ -18,3 +18,7 @@ The weighted matrix is extracted from the trained encoding model to convert the 
 ```
 # Environment
 Dependency can be get in environment.yml. All models were trained, validated, and analyzed on four NVIDIA GeForce RTX 3090 GPUs.
+# Appenxix
+![appendix_fig1](https://github.com/BIT-YangLab/CNN-IF/assets/149853778/fe85e816-3a98-4998-bddc-e8ae0d6b48c3)
+AlexNet hierarchy. (A) Visualization of the hierarchical structure of the ventral visual pathway. (B) The correlation between predictive voxel responses and measured voxel responses for each ROI from all data-driven-pretrained layers. (C) The correlation between predictive voxel responses and measured voxel responses for each ROI from all data-driven-unpretrained layers. The results were averaged across four subjects.
+
